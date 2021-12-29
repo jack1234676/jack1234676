@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jack1234676
-- 👀 I’m interested in Software development, AI,
 - 🌱 I’m currently in second year Computer engineering
 - 📫 How to reach me 
 jack.armstrong988@gmail.com
